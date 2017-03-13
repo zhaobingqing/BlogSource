@@ -40,6 +40,19 @@ hexo deploy
 在以后的使用过程中只需要项目中按照
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 ```bash
 hexo clean  
 hexo g  
